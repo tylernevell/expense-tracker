@@ -21,7 +21,3 @@ const ExpenseFilter = (props) => {
 };
 
 export default ExpenseFilter;
-
-// 1. listen for the user choice in ExpensesFilter component
-// 2. in the end, forward this choice to the Expenses component
-// 3. in Expenses component, store it in a state
